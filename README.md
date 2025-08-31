@@ -2,7 +2,7 @@
 
 **`CS Engineering (Dev/Security/AI)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+I'm a Computer Systems Engineering student passionate about software development, cybersecurity, and AI-assisted programming. I enjoy creating secure and innovative solutions while exploring how artificial intelligence can transform the way we build and learn. Driven by curiosity and a constant desire to grow, I believe the future of programming lies in the synergy between human creativity and AI support, and I’m excited to be part of that journey.
 
 <p align="left">
   <a href="mailto:fauriciorojas05@gmail.com?subject=Hola%20Fauricio%20(v%C3%ADa%20GitHub)&body=Hola%20Fauricio,%0A%0AVi%20tu%20perfil%20en%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte%20sobre..."
@@ -38,11 +38,6 @@ I'm an indie full-stack developer and content creator building my version of the
 #
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjY1Mnh0Z2hvMG84eG96OXEwdGhrZ2VmNmVya2IyOTE5bzNpaHllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dBrXAuiJQpBTgFhHFH/giphy.gif" width="25"> Education
-
-<p>
-  As an engineer committed to lifelong learning, my academic journey is active and ongoing.  
-  Currently pursuing my <b>Bachelor’s in Computer Systems Engineering</b>, while also strengthening my skills with certifications and bootcamps.
-</p>
 
 <br>
 
