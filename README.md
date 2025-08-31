@@ -22,8 +22,6 @@ I'm an indie full-stack developer and content creator building my version of the
   <b> Education</b>
 </h2>
 
-<br>
-
 <p>
   As an engineer committed to lifelong learning, my academic journey is active and ongoing.  
   Currently pursuing my <b>Bachelor’s in Computer Systems Engineering</b>, while also strengthening my skills with certifications and bootcamps.
@@ -131,28 +129,6 @@ I'm an indie full-stack developer and content creator building my version of the
 </table>
 
 <br>
-
-<h2 align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHR4ZnBqcW90ZDl0eTgzZWJzcGw1ZTg4MGgxM3N6OWZmd3c5eXMxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y4W24kiJUB7DQlZAt4/giphy.gif" width="55" valign="middle"/>
-  <b> Connect with me</b>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHR4ZnBqcW90ZDl0eTgzZWJzcGw1ZTg4MGgxM3N6OWZmd3c5eXMxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y4W24kiJUB7DQlZAt4/giphy.gif" width="55" valign="middle"/>
-</h2>
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fauricio-rojas" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:fauriciorojas05@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/fadricke" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
-  </a>
-</p>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
