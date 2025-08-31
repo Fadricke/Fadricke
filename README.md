@@ -39,7 +39,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjY1Mnh0Z2hvMG84eG96OXEwdGhrZ2VmNmVya2IyOTE5bzNpaHllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dBrXAuiJQpBTgFhHFH/giphy.gif" width="25"> Education
 
-
 <p>
   As an engineer committed to lifelong learning, my academic journey is active and ongoing.  
   Currently pursuing my <b>Bachelor’s in Computer Systems Engineering</b>, while also strengthening my skills with certifications and bootcamps.
@@ -47,7 +46,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <br>
 
-<table align="left" style="border-collapse: collapse; width: 100%;">
+<table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="padding:20px; width:33%; border:none;">
       <img src="https://scontent.fsjo17-1.fna.fbcdn.net/v/t39.30808-6/440190151_834634202041180_2047923574758743917_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_UeiGZN-_2EQ7kNvwHAhQic&_nc_oc=Adlo7FIFZ4AgBaCRULb1eVemKTWDbIYeFtkGiGwyHU9BpxmioDDQ-fdeq7wIEiUwbPo&_nc_zt=23&_nc_ht=scontent.fsjo17-1.fna&_nc_gid=4ofms5zv_4fH9BYeZrNu9g&oh=00_AfWK8zJCz84Al-mnmknwWyD3GCDE7v_je1V-JxsLNcLAmw&oe=68B41958" width="120" alt="UTC"><br><br/>
@@ -69,7 +68,5 @@ I'm an indie full-stack developer and content creator building my version of the
     </td>
   </tr>
 </table>
-<br>
 
-<img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
-
+#
