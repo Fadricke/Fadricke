@@ -18,44 +18,39 @@ I'm an indie full-stack developer and content creator building my version of the
 ---
 
 <h2 align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjY1Mnh0Z2hvMG84eG96OXEwdGhrZ2VmNmVya2IyOTE5bzNpaHllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dBrXAuiJQpBTgFhHFH/giphy.gif" width ="30">
-    <b> Education</b>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjY1Mnh0Z2hvMG84eG96OXEwdGhrZ2VmNmVya2IyOTE5bzNpaHllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30">
+  <b> Education</b>
 </h2>
 
 <br>
 
-<p>As an engineer committed to lifelong learning, my academic journey is active and ongoing.  
-Currently pursuing my **Bachelor’s in Computer Systems Engineering**, while also strengthening my skills with certifications and bootcamps.
+<p>
+  As an engineer committed to lifelong learning, my academic journey is active and ongoing.  
+  Currently pursuing my <b>Bachelor’s in Computer Systems Engineering</b>, while also strengthening my skills with certifications and bootcamps.
 </p>
 <br>
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td align="center">
-        <img src="https://scontent.fsjo17-1.fna.fbcdn.net/v/t39.30808-6/440190151_834634202041180_2047923574758743917_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_UeiGZN-_2EQ7kNvwHAhQic&_nc_oc=Adlo7FIFZ4AgBaCRULb1eVemKTWDbIYeFtkGiGwyHU9BpxmioDDQ-fdeq7wIEiUwbPo&_nc_zt=23&_nc_ht=scontent.fsjo17-1.fna&_nc_gid=4ofms5zv_4fH9BYeZrNu9g&oh=00_AfWK8zJCz84Al-mnmknwWyD3GCDE7v_je1V-JxsLNcLAmw&oe=68B41958" width="90" alt="UTC.png"/><br>
-        <strong>UTC</strong><br><strong>BSc.</strong> Computer Systems Engineering<br>
-        <br>
-          █████████░ 86%
-        <br>
-      </td>
-      <td align="center">
-       <img src="https://i.pinimg.com/280x280_RS/2e/5d/ac/2e5dacab5be4121b4cea03437268d610.jpg" width="90" alt="ScrumStudy.png"/><br>
-        <strong>Scrum Study</strong><br><strong></strong>Scrum Fundamentals Certified<br>
-        <br>
-        ██████████ 100%
-        <br>
-      </td>
-      <td align="center">
-       <img src="https://images.lumacdn.com/calendars/uc/558afdac-4b61-4e1c-9123-d6aa5500872c.png" width="90" alt="DojoCoding.png"/><br>
-        <strong>Dojo Coding Academy</strong><br><strong></strong>AI Assisted Programming Bootcamp<br>
-        <br>
-        ███████░░░ 76%
-        <br>
-      </td>
-    </tr>
-  </table>
-</div>
-
+<table align="center" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="padding:20px; width:33%; border:none;">
+      <img src="https://scontent.fsjo17-1.fna.fbcdn.net/v/t39.30808-6/440190151_834634202041180_2047923574758743917_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_UeiGZN-_2EQ7kNvwHAhQic&_nc_oc=Adlo7FIFZ4AgBaCRULb1eVemKTWDbIYeFtkGiGwyHU9BpxmioDDQ-fdeq7wIEiUwbPo&_nc_zt=23&_nc_ht=scontent.fsjo17-1.fna&_nc_gid=4ofms5zv_4fH9BYeZrNu9g&oh=00_AfWK8zJCz84Al-mnmknwWyD3GCDE7v_je1V-JxsLNcLAmw&oe=68B41958" width="120" alt="UTC"><br><br/>
+      <b>UTC</b><br/>
+      <span style="font-size:85%;">BSc. Computer Systems Engineering</span><br/><br/>
+      █████████░ 86%
+    </td>
+    <td align="center" style="padding:20px; width:33%; border:none;">
+      <img src="https://i.pinimg.com/280x280_RS/2e/5d/ac/2e5dacab5be4121b4cea03437268d610.jpg" width="120"><br><br/>
+      <b>SCRUM STUDY</b><br/>
+      <span style="font-size:85%;">Scrum Fundamentals Certified</span><br/><br/>
+      ██████████ 100%
+    </td>
+    <td align="center" style="padding:20px; width:33%; border:none;">
+      <img src="https://images.lumacdn.com/calendars/uc/558afdac-4b61-4e1c-9123-d6aa5500872c.png" width="120"><br><br/>
+      <b>DOJO CODING</b><br/>
+      <span style="font-size:85%;">AI-Assisted Programming Bootcamp</span><br/><br/>
+      ███████░░░ 76%
+    </td>
+  </tr>
+</table>
 <br>
 
 <h2 align="left">
