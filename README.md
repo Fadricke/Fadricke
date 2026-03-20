@@ -49,7 +49,7 @@ I'm a Computer Systems Engineering student passionate about software development
       <span style="font-size:85%;">BSc. Computer Systems Engineering</span>
     </td>
     <td align="center" style="padding:20px; width:33%; border:none;">
-      <img src="https://i.pinimg.com/280x280_RS/2e/5d/ac/2e5dacab5be4121b4cea03437268d610.jpg" width="120"><br><br/>
+      <img src="[https://i.pinimg.com/280x280_RS/2e/5d/ac/2e5dacab5be4121b4cea03437268d610.jpg](https://www.utc.ac.cr/web_i/res/tcu/procedimiento.pdf)" width="120"><br><br/>
       <b>SCRUM STUDY</b><br/>
       <span style="font-size:85%;">Scrum Fundamentals Certified</span>
     </td>
