@@ -44,12 +44,12 @@ I'm a Computer Systems Engineering student passionate about software development
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="padding:20px; width:33%; border:none;">
-      <img src="https://scontent.fsjo17-1.fna.fbcdn.net/v/t39.30808-6/323335518_509089421074056_47409718205254147_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=181h7QnuApcQ7kNvwFQvpfa&_nc_oc=AdlAkKwsriTbJ2v7S6yqskESOucP_SsQkrk4MQNGUq29YiJSPnq_scvS22wHMWV7NCQ&_nc_zt=23&_nc_ht=scontent.fsjo17-1.fna&_nc_gid=fy5KHsJsrQPrHutnX_-ZiQ&oh=00_AfbsOz9q0ouajRC82qx8e2BKi_rEXyng5zn-el9U0HiWjg&oe=68CFAF9E" width="120" alt="UTC"><br><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC4oWPSTNQh4hbgpsKPWklOn1N5N4NSBaXw&s" width="120" alt="UTC"><br><br/>
       <b>UTC</b><br/>
       <span style="font-size:85%;">BSc. Computer Systems Engineering</span>
     </td>
     <td align="center" style="padding:20px; width:33%; border:none;">
-      <img src="[https://i.pinimg.com/280x280_RS/2e/5d/ac/2e5dacab5be4121b4cea03437268d610.jpg](https://www.utc.ac.cr/web_i/res/tcu/procedimiento.pdf)" width="120"><br><br/>
+      <img src="https://i.pinimg.com/280x280_RS/2e/5d/ac/2e5dacab5be4121b4cea03437268d610.jpg" width="120"><br><br/>
       <b>SCRUM STUDY</b><br/>
       <span style="font-size:85%;">Scrum Fundamentals Certified</span>
     </td>
