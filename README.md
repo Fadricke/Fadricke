@@ -1,8 +1,18 @@
-<h1>👨🏾‍💻 Fadricke </h1>
+<h1>👋 Hi, I'm Fauricio </h1>
 
-**`CS Engineering (Dev/Security/AI)`**
+**`CS Engineering (Dev/Security/AI)`**  
 
-I'm a Computer Systems Engineering student passionate about software development, cybersecurity, and AI-assisted programming. I enjoy creating secure and innovative solutions while exploring how artificial intelligence can transform the way we build and learn. Driven by curiosity and a constant desire to grow, I believe the future of programming lies in the synergy between human creativity and AI support, and I’m excited to be part of that journey.
+I’m a Computer Systems Engineering graduate passionate about building software that solves real problems and actually gets used.
+
+I’ve worked on full-stack systems using C#, .NET, and relational databases, including a Document Management System currently in use in a real environment — developed entirely by me from the ground up.
+
+I enjoy working across backend, data, and user interfaces to build solutions that are both functional and intuitive.
+
+I’m also very interested in AI-assisted development and regularly use AI tools to enhance my workflow, learn faster, and approach problems from new angles.
+
+Still learning. Still building. Always improving.
+
+<br>
 
 <p align="left">
   <a href="mailto:fauriciorojas05@gmail.com?subject=Hola%20Fauricio%20(v%C3%ADa%20GitHub)&body=Hola%20Fauricio,%0A%0AVi%20tu%20perfil%20en%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte%20sobre..."
