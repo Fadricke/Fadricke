@@ -11,7 +11,6 @@ I enjoy working across backend, data, and user interfaces to build solutions tha
 I’m also very interested in AI-assisted development and regularly use AI tools to enhance my workflow, learn faster, and approach problems from new angles.
 
 Still learning. Still building. Always improving.
-
 <br>
 
 <p align="left">
